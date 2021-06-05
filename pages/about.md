@@ -9,4 +9,5 @@ permalink: /about/
 
 # About
 
-Soy un economista inmerso en el mundo de las finanzas y la programación. Mis intereses estan ligados a las fiananzas cuatitativas, el trading algoritmico y la ciencia de los datos.
+Soy un economista inmerso en el mundo de las finanzas y la programación.
+Mis intereses estan ligados a las fiananzas cuatitativas, el trading algoritmico y la ciencia de los datos.
