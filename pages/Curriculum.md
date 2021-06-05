@@ -5,7 +5,7 @@ description: Some description.
 permalink: /Curriculum/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
+<img class="img-rounded" src="/assets/img/uploads/FotoDiego.JPG" alt="Diego Sogamoso" width="200">
 
 # Acerca de Mi.
 
