@@ -1,7 +1,7 @@
 ---
-date: 2017-06-08 12:00:00
+date: 2021-06-05 18:00:00
 layout: post
-title: Do you believe that a spider can dance?
+title: Pairs Trading con Criptomonedas
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 category: travel
