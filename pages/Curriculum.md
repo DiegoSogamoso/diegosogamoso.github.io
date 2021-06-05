@@ -9,5 +9,13 @@ permalink: /Curriculum/
 
 # Acerca de Mi.
 
-Mi nombre es **Diego Sogamoso**, un economista colombiano inmerso en el mundo de las finanzas cuantitativas, el trading (me gusta el algoritmico) y el Data Science.
+Mi nombre es **Diego Sogamoso**, un economista colombiano inmerso en el mundo de las finanzas cuantitativas, el trading algoritmico y el Data Science.
+
+## Educación
+
+## Experiencia Laboral
+
+## Skills
+
+
 
