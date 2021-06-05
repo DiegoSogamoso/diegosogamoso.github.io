@@ -1,5 +1,5 @@
 ---
-date: 2021-06-05 18:00:00
+date: 2021-06-06 18:00:00
 layout: post
 title: Pairs Trading con Criptomonedas
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
