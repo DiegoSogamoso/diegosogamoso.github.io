@@ -1,6 +1,6 @@
 # Site Settings
 name: Diego Sogamoso
-title: Jekflix | A blog theme for Jekyll
+title: Diego Sogamoso | Un blog de finanzas y programación.
 description: Jekflix is a template for Jekyll inspired by Netflix and made by
   Thiago Rossener.
 tags:
@@ -13,13 +13,15 @@ show_hero: true
 menu:
   - title: Home
     url: /
+  - title: Curriculum
+    url: /Curriculum
   - title: About
     url: /about
   - title: Contact
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: diego.sogamoso@hotmail.com
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
