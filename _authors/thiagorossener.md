@@ -1,7 +1,7 @@
 ---
-layout: author
+layout: Diego Sogamoso
 photo: /assets/img/uploads/profile.png
-name: thiagorossener
+name: DiegoSogamoso
 display_name: Thiago Rossener
 position: Chief Editor
 bio: Just a developer.
