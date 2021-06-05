@@ -5,7 +5,7 @@ description: Some description.
 permalink: /Curriculum/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/diego foto 4x4.JPG" alt="Diego Sogamoso" width="200">
+<img class="img-rounded" src="/assets/img/uploads/diego foto 4x4.jpg" alt="Diego Sogamoso" width="200">
 
 # Acerca de Mi.
 
