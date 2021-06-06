@@ -57,8 +57,8 @@ Bogota, Colombia<br>
     
 ## Idiomas
 
- Español:   Nativo<br>
- Ingles :    B2<br>
+ Español: emsp Nativo<br>
+ Ingles : emsp B2<br>
     
     
 
