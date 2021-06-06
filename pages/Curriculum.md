@@ -15,9 +15,9 @@ Mi nombre es **Diego Sogamoso**, un economista colombiano inmerso en el mundo de
 
 ### Universitaria
 
-    Economista (2015-2021)
-    Universidad del Rosario
-    Bogota, Colombia
+Economista (2015-2021)
+Universidad del Rosario
+Bogota, Colombia
 
 ### Posgrado
 
@@ -27,38 +27,38 @@ Mi nombre es **Diego Sogamoso**, un economista colombiano inmerso en el mundo de
 
 ### Educación Complementaria
 
-    Especialista en Renta Variable (2020)
-    Universidad del Rosario
-    Bogota, Colombia
+ Especialista en Renta Variable (2020)
+ Universidad del Rosario
+ Bogota, Colombia
     
 ### Certificaciónes del Mercado Colombiano
 
-    Operador Basico (2021)
-    Autoregulador del Mercado de Valores
-    Bogota, Colombia
+ Operador Basico (2021)
+ Autoregulador del Mercado de Valores
+ Bogota, Colombia
 
 ## Experiencia Laboral
   
-    Asistente de Mesa de Posicion Propia  - Derivados & Divisas (2021 - Actualmente)
-    Acciones y Valores SaS
-    Bogota, Colombia
-    Descripcion:
+ Asistente de Mesa de Posicion Propia  - Derivados & Divisas (2021 - Actualmente)
+ Acciones y Valores SaS
+ Bogota, Colombia
+ Descripcion:
     
-    Analista de Investigaciones Economicas(2020)
-    Acciones y Valores SaS
-    Bogota, Colombia
-    Descripcion:
+ Analista de Investigaciones Economicas(2020)
+ Acciones y Valores SaS
+ Bogota, Colombia
+ Descripcion:
 
 ## Skills
 
-    Python  *****
-    Visual Basic *****
-    Excel      *****
+ Python  *****
+ Visual Basic *****
+ Excel      *****
     
  ## Idiomas
 
-    Español:  Nativo
-    Ingles :    B2
+ Español:  Nativo
+ Ingles :    B2
     
     
 
