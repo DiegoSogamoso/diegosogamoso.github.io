@@ -7,7 +7,9 @@ permalink: /about/
 
 <img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
 
-# About
+# About QN
 
-Soy un economista inmerso en el mundo de las finanzas y la programación.
-Mis intereses estan ligados a las fiananzas cuatitativas, el trading algoritmico y la ciencia de los datos.
+Quant Notes es un espacio academico y practico en el que se comparto ideas de el mundo de las finanzas, el trading y la computacion.
+
+
+
