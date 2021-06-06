@@ -27,7 +27,7 @@ Bogota, Colombia<br>
 
 ### Educación Complementaria
 
- Especialista en Renta Variable (2020)<br>
+ **Especialista en Renta Variable (2020)**<br>
  Universidad del Rosario<br>
  Bogota, Colombia<br>
     
