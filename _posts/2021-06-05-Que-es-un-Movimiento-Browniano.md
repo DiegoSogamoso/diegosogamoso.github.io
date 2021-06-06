@@ -1,7 +1,7 @@
 ---
 date: 2021-06-05 12:26:40
 layout: post
-title: Que es un Movimiento Browniano?
+title: Que es un Movimiento Browniano? Aplicado en Python
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822137/theme11_vei7iw.jpg
