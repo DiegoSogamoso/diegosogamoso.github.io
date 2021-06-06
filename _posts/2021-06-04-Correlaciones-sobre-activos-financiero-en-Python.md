@@ -1,7 +1,7 @@
 ---
 date: 2021-06-04T23:48:05.000Z
 layout: post
-title: Correlaciones sobre activos financieroen Python
+title: Correlaciones sobre activos financiero en Python
 subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
