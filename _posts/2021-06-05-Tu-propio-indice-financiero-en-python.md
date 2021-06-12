@@ -20,7 +20,7 @@ Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, na
 
 Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
 
-## Instalacion de Paquetes 
+## Instalación de Paquetes 
 
 #### Paquetes Base
 
@@ -56,9 +56,9 @@ from datetime import datetime
 
 #### API Financiera
 
-En la creación de nuestro indice es esencial tener un **API** (Application Programming Interface) o en español una interfaz de programacion de aplicaciones, la cual permitira conectarnos desde python a diferentes lugares de la web. En nuestro caso nos permitira extraer informacion de distintos repositorios como Yahoo finance, Google Finance, etc.
+En la creación de nuestro indice es esencial tener un **API** (Application Programming Interface) o en español una interfaz de programacion de aplicaciones, la cual permitira conectarnos desde python a diferentes lugares de la web. En nuestro caso, nos permitira extraer informacion de distintos repositorios como Yahoo finance, Google Finance, etc.
 
-De esta manera, usaremos `Y Finance` , el cual es uno de los paquetes mas usados para la extracción de datos historicos financieros directamente desde Yahoo finance. Nota que antes de importarlo debes instalarlo en nuestra maquina, por lo que cuando encuentres la expresión `!pip install`, significara que estas instalando un paquete que nunca antes habias corrido en tu pc o en tu interfaz. Mas adelante explicaremos como se debe usar correctamente el paquete.
+De esta manera, usaremos `Y Finance` , el cual es uno de los paquetes mas usados para la extracción de datos historicos financieros directamente desde Yahoo finance. Nota que antes de importarlo debes instalarlo en tu maquina, por lo que cuando encuentres la expresión `!pip install`, significara que estas instalando un paquete que nunca antes habias corrido en tu pc o en tu interfaz. Mas adelante explicaremos como se debe usar correctamente el paquete.
 
 ```  py
 # Instalando Y finance en el disco local
@@ -81,7 +81,7 @@ import matplotlib.pyplot as plt
 # Importando Plotly
 import plotly.graph_objs as go
 ```
-> **Nota:** Como se puede observar del paquete matplotlib se importa su subfunción ***pyplot***, la cual almacenaremos como `plt`. Mientras que para plotly usamos la subfuncion ***graph_objects*** la cual almacenaremos por facilidad como `go`.
+> **Nota:** Como se puede observar del paquete matplotlib importamos su subfunción ***pyplot***, la cual almacenaremos como `plt`. Mientras que para plotly usamos la subfuncion ***graph_objects*** la cual almacenamos por facilidad como `go`.
 
 
 Una vez tengas instalados e importados los anteriores paquetes, podras proceder al siguiente paso!
