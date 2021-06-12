@@ -106,42 +106,42 @@ Para ejemplo tomaremos los activos de la tabla 1, los cuales son pares emergente
     <tr>
       <td>USDCOP</td>
       <td>Peso Colombiano</td>
-      <td>11</td>
+      <td>USDCOP=X</td>
     </tr>
     <tr>
       <td>USDMXN</td>
       <td>Peso Mexicano</td>
-      <td>3</td>
+      <td>MXN=X</td>
     </tr>
     <tr>
       <td>USDCLP</td>
       <td>Peso Chileno</td>
-      <td>9</td>
+      <td>CLP=X</td>
     </tr>
     <tr>
       <td>USDBRL</td>
       <td>Real Brasilero</td>
-      <td>9</td>
+      <td>BRL=X</td>
     </tr>
     <tr>
       <td>USDCAD</td>
       <td> Dolar Canadiense </td>
-      <td>9</td>
+      <td>CAD=X</td>
     </tr>
     <tr>
       <td>USDRUB</td>
       <td>Rublo Ruso</td>
-      <td>9</td>
+      <td>RUB=X</td>
     </tr>
     <tr>
       <td>USDZAR</td>
       <td>Rand Sudafricano</td>
-      <td>9</td>
+      <td>ZAR=X</td>
     </tr>
      <tr>
       <td>USDIDR</td>
       <td>Ruphia Indonesa</td>
-      <td>9</td>
+      <td>USDIDR=X</td>
     </tr>  
   </tbody>
 </table>
