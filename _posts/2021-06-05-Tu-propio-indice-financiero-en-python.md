@@ -31,15 +31,16 @@ Por lo que, si  esta es tu primera vez programando en python, necesitaras una br
 import yfinance as yf
 ```
 
-El paquete Numpy o Numerical Python.
-```
-import numpy as np
-```
 
-Cargamos el paquete Pandas Datareader, el cual nos facilitara el uso de bases de datos (DataFrames)
 
-```
+Cargamos los paquetes base, dentro de los cuales esta el paquete Pandas Datareader, el cual nos facilitara el uso de bases de datos (DataFrames)- De igual manera, hacemos uso de Numpy o Numerical Python, el cual nos brinda las herramientas matematicas y algebraicas que utilizaremos en la creación del indice.
+
+```py
+# Paquete Pandas Datareader
 import pandas as pd
+
+# Paquete Numerical Python
+import numpy as np
 ```
 
 
