@@ -61,7 +61,10 @@ En la creación de nuestro indice es esencial tener un **API** (Application Prog
 De esta manera, usaremos `Y Finance` , el cual es uno de los paquetes mas usados para la extracción de datos historicos financieros directamente desde Yahoo finance. Nota que antes de importarlo debes instalarlo en nuestra maquina, por lo que cuando encuentres la expresión `!pip install`, significara que estas instalando un paquete que nunca antes habias corrido en tu pc o en tu interfaz. Mas adelante explicaremos como se debe usar correctamente el paquete.
 
 ```  py
+# Instalando Y finance en el disco local
 !pip install yfinance
+
+# Importación del paquete
 import yfinance as yf
 ```
 
@@ -78,7 +81,71 @@ import matplotlib.pyplot as plt
 # Importando Plotly
 import plotly.graph_objs as go
 ```
-> **Nota:** Como se puede observar del paquete matplotlib se importa su *subfunción* pyplot, la cual almacenaremos como `plt`. Mientras que para plotly usamos la subfuncion *graph_obejects* la cual almacenaremos por facilidad como `go`.
+> **Nota:** Como se puede observar del paquete matplotlib se importa su subfunción ***pyplot***, la cual almacenaremos como `plt`. Mientras que para plotly usamos la subfuncion ***graph_objects*** la cual almacenaremos por facilidad como `go`.
+
+
+Una vez tengas instalados e importados los anteriores paquetes, podras proceder al siguiente paso!
+
+
+
+## Selección de Activos (Security Selection) 
+
+La seleccion de activos es el paso mas importante de nuestra estructuracion del indice, ya que en el  podremos darle rienda suelta a nuestras preferencias y escoger un set de activos que nos parezca atractivo o que preferiblemente despues de un analisis fundamental muestre señales significativas de evidenciar  el comportamiento de un sector o de un mercado en especial. 
+
+Para ejemplo tomaremos los activos de la tabla 1, los cuales son pares emergentes negociados en el mercado Forex (Currency Market). Sin embargo, el procedimiento sera el mismo para cualquier set diferente de activos. 
+
+<table>
+  <thead>
+    <tr>
+      <th>Activo</th>
+      <th>Nombre</th>
+      <th>Ticker</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>USDCOP</td>
+      <td>Peso Colombiano</td>
+      <td>11</td>
+    </tr>
+    <tr>
+      <td>USDMXN</td>
+      <td>Peso Mexicano</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>USDCLP</td>
+      <td>Peso Chileno</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>USDBRL</td>
+      <td>Real Brasilero</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>USDCAD</td>
+      <td> Dolar Canadiense </td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>USDRUB</td>
+      <td>Rublo Ruso</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>USDZAR</td>
+      <td>Rand Sudafricano</td>
+      <td>9</td>
+    </tr>
+     <tr>
+      <td>USDIDR</td>
+      <td>Ruphia Indonesa</td>
+      <td>9</td>
+    </tr>  
+  </tbody>
+</table>
+
 
 
 
@@ -165,39 +232,7 @@ Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliqua
 
 Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
+
 
 Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
 
