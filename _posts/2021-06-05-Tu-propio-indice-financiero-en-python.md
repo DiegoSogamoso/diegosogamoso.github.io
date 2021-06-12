@@ -70,9 +70,9 @@ import yfinance as yf
 
 #### Graficación
 
-Python ofrece una amplia gama de herramientas para la graficación de cualquier tipo de datos, Matplotlib y Plotly son las principales a la hora del analisis grafico.
+Python ofrece una amplia gama de herramientas para la graficación de cualquier tipo de datos, **Matplotlib** y **Plotly** son las principales a la hora del analisis grafico.
 
-Sus diferencias radican en el tipo de grafico al cual le dan salida, mientras matplotlib arroja graficos estaticos, mediante Plotely podriamos llegar a generar graficos dinamicos, los cuales pueden llegar a ser mucho mas utiles. En este ejercicio usaremos ambas herramientas, para que el usuario final escoja cual es de su preferencia.
+Sus diferencias radican en el tipo de grafico al cual le dan salida, mientras matplotlib arroja graficos estaticos, mediante Plotly podriamos llegar a generar graficos dinamicos, los cuales llegar a ser mucho mas utiles. En este ejercicio usaremos ambas herramientas, para que el usuario final escoja cual es de su preferencia.
 
 ``` py
 # Importando Matplotlib
@@ -90,9 +90,11 @@ Una vez tengas instalados e importados los anteriores paquetes, podras proceder 
 
 ## Selección de Activos (Security Selection) 
 
-La seleccion de activos es el paso mas importante de nuestra estructuracion del indice, ya que en el  podremos darle rienda suelta a nuestras preferencias y escoger un set de activos que nos parezca atractivo o que preferiblemente despues de un analisis fundamental muestre señales significativas de evidenciar  el comportamiento de un sector o de un mercado en especial. 
+La seleccion de activos es el paso mas importante de nuestra estructuracion del indice, ya que en el podremos darle rienda suelta a nuestras preferencias y escoger un set de activos que nos parezca atractivo o que preferiblemente despues de un analisis fundamental, muestren en conjunto señales significativas de evidenciar el comportamiento de un sector o de un mercado en especial. 
 
-Para ejemplo tomaremos los activos de la tabla 1, los cuales son pares emergentes negociados en el mercado Forex (Currency Market). Sin embargo, el procedimiento sera el mismo para cualquier set diferente de activos. 
+Para el ejemplo tomaremos pares de monedas (Currency Market), donde se incluyen en su mayoria monedas de paises emergentes. Sin embargo, el procedimiento sera el mismo para cualquier set diferente de activos. 
+
+En la siguiente tabla, se evidencian los activos seleccionados junto con su ticker en Yahoo Finance. El ticker es el codigo de identificacion del activo, por lo cual es imortante de conocer, ya que sera el que usaremos para traer el activo de Yahoo al momento de usar el **API**.
 
 <table>
   <thead>
@@ -147,11 +149,10 @@ Para ejemplo tomaremos los activos de la tabla 1, los cuales son pares emergente
 </table>
 
 
+## Extracción de los Datos
 
 
-
-
-
+ 
 
 
 
