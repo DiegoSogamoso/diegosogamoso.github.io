@@ -37,16 +37,28 @@ import pandas as pd
 import numpy as np
 ```
 
+#### Manejo de Fechas 
+
+Para el manejo de fechas seran esenciales, las funciones timedelta (), date (), y datetime(), las cuales hacen parte del paquete datetime, el cual es uno de los paquetes preferidos  por los cientificos de datos para el tratamiento de data cronologica.
+
 ``` py
+# Importando la funcion timedelta
 from datetime import timedelta 
+
+# Importando la funcion date
 from datetime import date
+
+# Importando la funcion datetime
 from datetime import datetime
 
 ```
 
 
 #### API Financiera
-El paquete Y finance es una herramienta creada.....
+
+En la creación de nuestro indice es esencial tener un **API** (Application Programming Interface) o en español una interfaz de programacion de aplicaciones, la cual permitira conectarnos desde python a diferentes lugares de la web. En nuestro caso nos permitira extraer informacion de distintos repositorios como Yahoo finance, Google Finance, etc.
+
+De esta manera, usaremos `Y Finance` , el cual es uno de los paquetes mas usados para la extracción de datos historicos financieros directamente desde Yahoo finance. Nota que antes de importarlo debes instalarlo en nuestra maquina, por lo que cuando encuentres la expresión `!pip install`, significara que estas instalando un paquete que nunca antes habias corrido en tu pc o en tu interfaz. Mas adelante explicaremos como se debe usar correctamente el paquete.
 
 ```  py
 !pip install yfinance
@@ -55,13 +67,26 @@ import yfinance as yf
 
 #### Graficación
 
+Python ofrece una amplia gama de herramientas para la graficación de cualquier tipo de datos, Matplotlib y Plotly son las principales a la hora del analisis grafico.
+
+Sus diferencias radican en el tipo de grafico al cual le dan salida, mientras matplotlib arroja graficos estaticos, mediante Plotely podriamos llegar a generar graficos dinamicos, los cuales pueden llegar a ser mucho mas utiles. En este ejercicio usaremos ambas herramientas, para que el usuario final escoja cual es de su preferencia.
+
 ``` py
-# Matplotlib
+# Importando Matplotlib
 import matplotlib.pyplot as plt
 
-# Plotly
+# Importando Plotly
 import plotly.graph_objs as go
 ```
+> **Nota:** Como se puede observar del paquete matplotlib se importa su *subfunción* pyplot, la cual almacenaremos como `plt`. Mientras que para plotly usamos la subfuncion *graph_obejects* la cual almacenaremos por facilidad como `go`.
+
+
+
+
+
+
+
+
 
 
 HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
