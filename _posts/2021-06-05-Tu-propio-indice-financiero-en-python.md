@@ -94,7 +94,7 @@ La seleccion de activos es el paso mas importante de nuestra estructuracion del 
 
 Para el ejemplo tomaremos pares de monedas (Currency Market), donde se incluyen en su mayoria monedas de paises emergentes. Sin embargo, el procedimiento sera el mismo para cualquier set diferente de activos. 
 
-En la siguiente tabla, se evidencian los activos seleccionados junto con su ticker en Yahoo Finance. El ticker es el codigo de identificacion del activo, por lo cual es imortante de conocer, ya que sera el que usaremos para traer el activo de Yahoo al momento de usar el **API**.
+En la siguiente tabla, se evidencian los activos seleccionados junto con su ticker en Yahoo Finance. El ticker es el codigo de identificacion del activ  que usaremos para traer el activo de Yahoo al momento de usar el **API**.
 
 <table>
   <thead>
