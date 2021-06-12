@@ -22,18 +22,7 @@ Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur puru
 
 ## Instalacion de Paquetes Base
 
-Para la creación de los indices financieros necesitaremos los paquetes base de python. 
-Por lo que, si  esta es tu primera vez programando en python, necesitaras una breve explicación de que hace cada uno de ellos:
-
-
-```
-!pip install yfinance
-import yfinance as yf
-```
-
-
-
-Cargamos los paquetes base, dentro de los cuales esta el paquete Pandas Datareader, el cual nos facilitara el uso de bases de datos (DataFrames)- De igual manera, hacemos uso de Numpy o Numerical Python, el cual nos brinda las herramientas matematicas y algebraicas que utilizaremos en la creación del indice.
+Para la creación de los indices financieros necesitaremos los paquetes base de python. Dentro de los paquetes base encontramos dos principales, el primeo es el paquete **Pandas Datareader**, el cual nos facilitara el uso de bases de datos (DataFrames). En el seggundo lugar, hacemos uso de **Numpy** o Numerical Python, el cual brinda las herramientas matematicas y algebraicas que utilizaremos en la creación del indice.
 
 ```py
 # Paquete Pandas Datareader
@@ -44,6 +33,10 @@ import numpy as np
 ```
 
 
+```
+!pip install yfinance
+import yfinance as yf
+```
 
 ```
 import plotly.graph_objs as go
